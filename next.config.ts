@@ -21,7 +21,7 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  trailingSlash: true,
+  trailingSlash: false,
   distDir: 'out',
 };
 
